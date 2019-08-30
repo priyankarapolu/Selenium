@@ -1,0 +1,5 @@
+selenium automation
+it needs eclipse
+jdk
+jre
+SE drivers
